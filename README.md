@@ -9,7 +9,8 @@
 
 1. PYTHON
   a) Pictures
-      All resources to create ico/logos for building python programs
+      All resources to create ico/logos for building python programs.
+      These pictures are mainly from Pixabay.
 
 
                                       TIPS
