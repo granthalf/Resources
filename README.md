@@ -13,7 +13,15 @@
       These pictures are mainly from Pixabay.
 
 
-                                      TIPS
+
+
+
+####################################################################################
+#
+#                                 TIPS
+#
+####################################################################################
+
 
 A- WINDOWS 11
   1) Round Corner
@@ -28,7 +36,15 @@ A- WINDOWS 11
 
 
 
-                                      EXTERNAL LINKS
+
+
+####################################################################################
+#
+#                                 EXTERNAL LINKS
+#
+####################################################################################
+
+
 [CYBERSECURITY]
 {SEC LISTS} https://github.com/danielmiessler/SecLists
 {NIS2} (fr) https://www.maire-info.com/cybermalveillance/cybersecurite-et-directive-nis-2-o%EF%BF%BD-en-est-on--article-30090
@@ -39,6 +55,10 @@ A- WINDOWS 11
 
 [ UAC ]
 {DEFINE} (fr) https://www.toutwindows.com/controle-de-compte-utilisateur-uac/
+
+
+
+
 
 
 ```
