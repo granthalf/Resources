@@ -67,7 +67,14 @@ A- WINDOWS 11
 ####################################################################################
 
 
-I want share tools as near as possible than tools who match with these criteria:
+I'm someone who uses facts in first. Then, I have my own opinions.
+All work shared is made with "a rule". A rule is applied for anyone.
+If cookie are annoying me, I'm not alone versus cookies. It's a global issue.
+Companies defend themselves to protect their commercial purposes.
+But I defend myself on my own informations: I want do choices if all elements have been brought to me correctly.
+
+
+1. I want share tools as near as possible than tools who match with these criteria:
 - open source
 - free
 - reusable
@@ -75,8 +82,21 @@ I want share tools as near as possible than tools who match with these criteria:
 - without advs
 - without permissions as reaching personnal informations
 
+=> With this mind, I limit highly all "attack surface".
 
-With this mind, I limit highly all "attack surface".
+
+2. With laws & governements, it's time to avoid these countries:
+- USA. For spying & collecting informations. Governement is able to force companies to forward sensitives informations. Direct laws make Gov as an executive requester (no protection against request). 
+- Russia. For spying & collecting informations. Governement is able to force companies to forward sensitives informations. Direct laws make Gov as an executive requester (no protection against request). 
+- China. For spying & collecting informations. Governement is able to force companies to forward sensitives informations. Some laws make Gov as a requester (they have access and no protection against request). 
+
+=> I'm from Europa, so my scope is: Europa.
+
+
+3. Open Source:
+This point makes anyone to build the app making the freedom not depending of a governement scope.
+GIMP is made from USA but the source is from "open source". It's possible to check & analyze to be sure the app is safe (even if on first view it seems coming from a distrusted country).
+
 
 
 
