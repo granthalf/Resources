@@ -7,7 +7,7 @@
 
                                       SUMMARY
 
-1. PYTHON
+1. Directory {PYTHON}
   a) Pictures
       All resources to create ico/logos for building python programs.
       These pictures are mainly from Pixabay.
