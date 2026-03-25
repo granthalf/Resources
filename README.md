@@ -60,5 +60,25 @@ A- WINDOWS 11
 
 
 
+####################################################################################
+#
+#                                 MY PHILOSOPHY
+#
+####################################################################################
+
+
+I want share tools as near as possible than tools who match with these criteria:
+- open source
+- free
+- reusable
+- without cookies
+- without advs
+- without permissions as reaching personnal informations
+
+
+With this mind, I limit highly all "attack surface".
+
+
+
 
 ```
