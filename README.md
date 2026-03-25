@@ -28,5 +28,17 @@ A- WINDOWS 11
 
 
 
+                                      EXTERNAL LINKS
+[CYBERSECURITY]
+{SEC LISTS} https://github.com/danielmiessler/SecLists
+{NIS2} (fr) https://www.maire-info.com/cybermalveillance/cybersecurite-et-directive-nis-2-o%EF%BF%BD-en-est-on--article-30090
+
+
+[ AD ]
+{AD FOREST} (fr) https://www.varonis.com/fr/blog/foret-active-directory
+
+[ UAC ]
+{DEFINE} (fr) https://www.toutwindows.com/controle-de-compte-utilisateur-uac/
+
 
 ```
