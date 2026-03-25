@@ -13,6 +13,11 @@
       These pictures are mainly from Pixabay.
 
 
+2. Directory {SCRIPTS}
+  a) Browsers Extensions
+      All resources to add Extensions to your Browser.
+
+
 
 
 
