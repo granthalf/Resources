@@ -38,13 +38,17 @@ A- WINDOWS 11
   2) Firefox issue (text black on black)
       At least, I found an issue with a bad text on a bad back. I try the Dark Mode but nothing was nice.
       In order to find a solution, try to use by 'Help' then the 'Restart Firefox in Troubleshoot Mode'. It has been solved my issue, in my case
-      (or not: troubleshoot is as uninstall/install, be careful ==> my case had origin my Scripts for Monkey extension, it was needed debug)
+      (or not: troubleshoot is as a method "uninstall/install", so be careful with it ==> my case had origin my Scripts for Monkey extension, it was needed debug)
 
   3) Files Blocked!
       What a suppa Joy to find this point! Very Thanks Microsoft, to add sooooo many issues and generate a sooo big waste of time!
       Use Powershell and unlock your files, sometimes, to avoid this mechanism sooooo crazy:
       Get-ChildItem "C:\" -Recurse | Unblock-File
       Only One? Ok, only this: Unblock-File -Path "C:\<your_path>\file.ext"
+
+  4) Root on Linux
+      Basis but we can forget. Try this command to switch root.
+      sudo -i
 
 
 
@@ -68,7 +72,11 @@ A- WINDOWS 11
 [ UAC ]
 {DEFINE} (fr) https://www.toutwindows.com/controle-de-compte-utilisateur-uac/
 
+[ PASSWORDS ]
+{DOCUMENTARY} (eng) [https://www.toutwindows.com/controle-de-compte-utilisateur-uac/](https://www.youtube.com/watch?v=m-OjoQBHPyU)
 
+[ LINUX ]
+{ONLINE SYSTEMS} (wana try one?) https://distrosea.com/
 
 
 
