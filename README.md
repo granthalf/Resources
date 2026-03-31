@@ -63,7 +63,6 @@ A- WINDOWS 11
             create app.desktop on desktop
             with your favorite editor fill the file with the data below
             check your file explorer (as PcManFM) and check something like Edit / Prefs / check the box "don't ask any option for executable files"
-
 ### FILE ###
 [Desktop Entry]
 Type=Application
@@ -76,6 +75,8 @@ Exec=<here set your code as in a terminal>
 Terminal=false
 StartupNotify=false
 
+  7) REMMINA
+      Same as "wayland" and issues with keyboards other than us: but for this client, go on "Prefs" / "Use client keyboard mapping" (src= https://askubuntu.com/questions/586964/wrong-keyboard-layout-in-remmina-and-windows-server)
 
 
 
