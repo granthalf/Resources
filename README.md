@@ -78,6 +78,12 @@ StartupNotify=false
   7) REMMINA
       Same as "wayland" and issues with keyboards other than us: but for this client, go on "Prefs" / "Use client keyboard mapping" (src= https://askubuntu.com/questions/586964/wrong-keyboard-layout-in-remmina-and-windows-server)
 
+  8) ROUTE TO HOST: FAILED (FFPLAY)
+      add to /etc/sysctl.conf with root:
+      echo "net.ipv6.conf.all.disable_ipv6=1" >> /etc/sysctl.conf
+      echo "net.ipv6.conf.default.disable_ipv6=1" >> /etc/sysctl.conf
+      src= https://unix.stackexchange.com/questions/475257/getting-frequently-connection-error-no-route-to-host-and-tls-session-handshake
+
 
 
 
