@@ -50,7 +50,11 @@ A- WINDOWS 11
       Basis but we can forget. Try this command to switch root.
       sudo -i
 
-
+  2) Firefox Horizontal Scrollbar
+      about:config
+      widget.windows.overlay-scrollbars.enabled
+      => switch to "false" (false => activate scrollbar)
+      (+) go to settings, then check the checkbox: "Always show scrollbars"
 
 
 
