@@ -50,11 +50,33 @@ A- WINDOWS 11
       Basis but we can forget. Try this command to switch root.
       sudo -i
 
-  2) Firefox Horizontal Scrollbar
+  5) Firefox Horizontal Scrollbar
       about:config
       widget.windows.overlay-scrollbars.enabled
       => switch to "false" (false => activate scrollbar)
       (+) go to settings, then check the checkbox: "Always show scrollbars"
+
+  6) Raspberry
+      a) Panel can't be edited (to add a lock button, for example)
+      b) If you want to lock, you can by: Ctrl+Alt+L (https://forums.linuxmint.com, topic 22599)
+      c) Create a Desktop Button
+            create app.desktop on desktop
+            with your favorite editor fill the file with the data below
+            check your file explorer (as PcManFM) and check something like Edit / Prefs / check the box "don't ask any option for executable files"
+
+### FILE ###
+[Desktop Entry]
+Type=Application
+Name=<Name>
+GenericName=<Name>
+Comment=<desc>
+Categories=System;Security;
+Icon=/usr/img/<picture>.png
+Exec=<here set your code as in a terminal>
+Terminal=false
+StartupNotify=false
+
+
 
 
 
