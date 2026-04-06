@@ -87,6 +87,9 @@ StartupNotify=false
   9) PYTHON (Localhost)
       py -m http.server
       python -m http.server
+      
+      URL= http://127.0.0.1:8000/
+      URL= http://localhost:8000/
 
 
 
