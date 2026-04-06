@@ -84,6 +84,9 @@ StartupNotify=false
       echo "net.ipv6.conf.default.disable_ipv6=1" >> /etc/sysctl.conf
       src= https://unix.stackexchange.com/questions/475257/getting-frequently-connection-error-no-route-to-host-and-tls-session-handshake
 
+  9) PYTHON (Localhost)
+      py -m http.server
+      python -m http.server
 
 
 
