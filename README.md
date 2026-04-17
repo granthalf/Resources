@@ -91,6 +91,10 @@ StartupNotify=false
       URL= http://127.0.0.1:8000/
       URL= http://localhost:8000/
 
+  10) Unix - Keyboards & Lang (for session)
+      [ALPINE] setup-keymap fr fr
+
+
 
 
 ####################################################################################
