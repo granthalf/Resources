@@ -93,6 +93,8 @@ StartupNotify=false
 
   10) Unix - Keyboards & Lang (for session)
       [ALPINE] setup-keymap fr fr
+      [DEBIAN] setxkbmap fr
+      [  TEST] loadkeys fr
 
 
 
