@@ -96,8 +96,13 @@ StartupNotify=false
       [DEBIAN] setxkbmap fr
       [  TEST] loadkeys fr
 
-
-
+  11) Unix - FTP
+      apt-get install vsftpd ftp
+      systemctl status vsftpd
+      vi /etc/vsftpd.conf
+      sudo adduser transfer
+      (add user ftp "transfer")
+      src= https://www.tecmint.com/create-sftp-user-linux/
 
 ####################################################################################
 #
