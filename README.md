@@ -104,6 +104,10 @@ StartupNotify=false
       (add user ftp "transfer")
       src= https://www.tecmint.com/create-sftp-user-linux/
       lslogins -u transfer
+      sudo groupadd sftpuser
+      sudo usermod -a -G sftpuser transfer
+      getent group
+
 
 ####################################################################################
 #
