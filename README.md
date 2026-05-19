@@ -103,6 +103,7 @@ StartupNotify=false
       sudo adduser transfer
       (add user ftp "transfer")
       src= https://www.tecmint.com/create-sftp-user-linux/
+      lslogins -u transfer
 
 ####################################################################################
 #
