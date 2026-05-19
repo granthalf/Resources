@@ -107,7 +107,7 @@ StartupNotify=false
       sudo groupadd sftpuser
       sudo usermod -a -G sftpuser transfer
       getent group
-
+      groups transfer
 
 ####################################################################################
 #
