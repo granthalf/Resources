@@ -91,12 +91,15 @@ StartupNotify=false
       URL= http://127.0.0.1:8000/
       URL= http://localhost:8000/
 
-  10) Unix - Keyboards & Lang (for session)
+  10) PYTHON (pip install)
+      python -m pip install <package>
+
+  11) Unix - Keyboards & Lang (for session)
       [ALPINE] setup-keymap fr fr
       [DEBIAN] setxkbmap fr
       [  TEST] loadkeys fr
 
-  11) Unix - FTP
+  12) Unix - FTP
       apt-get install vsftpd ftp
       systemctl status vsftpd
       vi /etc/vsftpd.conf
